@@ -1,0 +1,62 @@
+.container1 {
+    margin: 0px;
+    padding: 0px;
+    height: 300px;
+    background-color: #1f2937;
+}
+.header {
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+    margin-left: 250px;
+    color: hwb(28 7% 0%);
+}
+.Content {
+    margin-left: 0px;
+    color:lightcoral;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.right-content a{
+    font-size: larger;
+    color: aliceblue;
+    padding: 10px;
+}
+.left-content {
+    display: flex;
+    flex-direction: column;
+}
+.container2 {
+    height: 200px;
+    background-color: antiquewhite;
+}
+.colourful-flowers {
+    color: blueviolet;
+    text-align: center;
+}
+.flower-images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.context-images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: rgb(255, 2, 95);
+}
+.container3 {
+    height: 100px;
+    background-color: lavender;
+    text-align: center;
+    font-style: italic;
+}
+.container4 {
+    text-align: center;
+    background-color: rgb(166, 245, 252);
+    font-style: normal;
+}
+
